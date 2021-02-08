@@ -1,0 +1,14 @@
+{
+  "name": "@augu/tsconfig",
+  "description": "🖊️ TypeScript compiler configuration for my projects",
+  "version": "1.0.0",
+  "author": "August <cutie@floofy.dev>",
+  "license": "MIT",
+  "repository": "https://github.com/auguwu/tsconfig",
+  "funding": { "url": "https://github.com/auguwu/tsconfig?sponsor=1" },
+  "files": ["tsconfig.json"],
+  "main": "./tsconfig.json",
+  "engines": {
+    "node": ">=10"
+  }
+}
