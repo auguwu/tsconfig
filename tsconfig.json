@@ -12,7 +12,9 @@
     "emitDecoratorMetadata": true,
     "newLine": "lf",
     "noEmitOnError": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "removeComments": true,
+    "outDir": "./build"
   },
   "exclude": ["node_modules"]
 }
