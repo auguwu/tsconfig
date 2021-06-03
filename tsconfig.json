@@ -14,7 +14,10 @@
     "noEmitOnError": true,
     "forceConsistentCasingInFileNames": true,
     "removeComments": true,
-    "outDir": "./build"
+    "outDir": "./build",
+    "useDefineForClassFields": true,
+    "moduleResolution": "node",
+    "types": ["node"]
   },
   "exclude": ["node_modules"]
 }
