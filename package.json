@@ -1,14 +1,16 @@
 {
-  "name": "@augu/tsconfig",
-  "description": "🖊️ TypeScript compiler configuration for my projects",
-  "version": "1.1.1",
-  "author": "August <cutie@floofy.dev>",
-  "license": "MIT",
-  "repository": "https://github.com/auguwu/tsconfig",
-  "funding": { "url": "https://github.com/sponsors/auguwu" },
-  "files": ["tsconfig.json", "dom.json", "node.json"],
-  "main": "./tsconfig.json",
-  "engines": {
-    "node": ">=10"
-  }
+    "name": "@augu/tsconfig",
+    "description": "🖊️ TypeScript compiler configuration for my projects",
+    "version": "1.2.0",
+    "author": "Noel Towa <cutie@floofy.dev>",
+    "license": "MIT",
+    "repository": "https://github.com/auguwu/tsconfig",
+    "funding": {
+        "url": "https://github.com/sponsors/auguwu"
+    },
+    "files": ["tsconfig.json", "dom.json", "node.json"],
+    "main": "./tsconfig.json",
+    "engines": {
+        "node": ">=10"
+    }
 }
